@@ -1,0 +1,13 @@
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\bin\Debug\netstandard2.0\Persitence.dll
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\bin\Debug\netstandard2.0\Persitence.pdb
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\DAL\bin\Debug\netstandard2.0\ConnectionString.txt

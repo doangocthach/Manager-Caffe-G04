@@ -1,0 +1,9 @@
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\bin\Debug\netstandard2.0\Persitence.deps.json
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\bin\Debug\netstandard2.0\Persitence.dll
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\bin\Debug\netstandard2.0\Persitence.pdb
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\obj\Debug\netstandard2.0\Persitence.csprojAssemblyReference.cache
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\obj\Debug\netstandard2.0\Persitence.csproj.CoreCompileInputs.cache
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\obj\Debug\netstandard2.0\Persitence.AssemblyInfoInputs.cache
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\obj\Debug\netstandard2.0\Persitence.AssemblyInfo.cs
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\obj\Debug\netstandard2.0\Persitence.dll
+C:\Users\goldk\OneDrive\Desktop\Project_G04\Manager-Caffe-G04\Source Code\Persitence\obj\Debug\netstandard2.0\Persitence.pdb
